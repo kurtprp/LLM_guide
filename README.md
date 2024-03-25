@@ -82,6 +82,10 @@ ples.
 Example 1: "After adjusting the prompt for conciseness, evaluate its effectiveness across 20 different news articles."
 Example 2: "Compare the response quality of the original and revised prompts on a dataset of customer service inquiries to determine which provides more accurate and helpful solutions."
 
+## References
+- https://platform.openai.com/docs/guides/prompt-engineering
+- https://docs.anthropic.com/claude/docs/prompt-engineering
+
  # What Is RAG? Where to Use It?
  TBD
 # Fine-tuning Is Not for Advanced Users
